@@ -624,6 +624,8 @@ color:#1d1b1be6;
   color:rgb(64,64,64);
   color:#1d1b1be6;
   }
+ .city{
+  text-align:center;}
 
 .reklama {
   background-color: #c2c0bc;
@@ -767,6 +769,9 @@ padding-left: 0;
   -ms-grid-column: 1;
   -ms-grid-column-span: 1;
   grid-column: 1/2;
+}
+ .menj1 p, .menj2 p {
+    font-size: 14px;
 }
 .top-arr{
   bottom:3px;
