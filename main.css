@@ -484,7 +484,7 @@ padding: 10px;
 .q-a{
 box-shadow: 2px 0px 6px rgba(89, 0, 128, 0.6);
 display: none;
-
+margin:10px;
 }
 .dugme>a:hover{
   cursor: pointer;
